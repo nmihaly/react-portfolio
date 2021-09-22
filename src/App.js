@@ -1,18 +1,5 @@
-import React from 'react'
-// import logo from './logo.svg';
-import './App.css';
-import About from './components/About';
-import Nav from './components/Nav/index'
+import React from "react";
 
-function App() {
-  return (
-    <div>
-      <Nav></Nav>
-      <main>
-        <About></About>
-      </main>
-    </div>
-  );
+export default function App() {
+  return "App";
 }
-
-export default App;
