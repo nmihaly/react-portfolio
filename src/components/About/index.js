@@ -10,9 +10,12 @@ function About() {
                         <br className="hidden lg:inline-block" />I love to build amazing apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                        Web developer with a passion of making the internet a better and friendlier place.
+                        Recently earned a certificate in Full Stack Development from the University of California Los Angeles
+                        and developed skills in JavaScript, CSS, React.js, and responsive web design.
+                        Often designated as the project manager in group projects who coordinated with group
+                        members on the progress made on certain tasks and guaranteed deadlines were being met.
+                        Excited and ready to uitilize my skills in an agile project management setting.
                     </p>
                     <div className="flex justify-center">
                         <a
