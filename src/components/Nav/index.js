@@ -18,7 +18,7 @@ function Nav() {
           Skills
         </a>
         <a href="#testimonials" className="mr-5 hover:text-white">
-          Testimonials
+          Resume
         </a>
       </nav>
       <a
